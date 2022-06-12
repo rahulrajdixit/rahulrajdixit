@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on projects based on the domain of Cyber Security, Web Development, Python/Java based tools or softwares.
 - 📫 How to reach me? email: rahulrd2000@gmail.com
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrajdixit&show_icons=true&theme=highcontrast)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrajdixit&show_icons=true&theme=chartreuse-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrajdixit&layout=compact)](https://github.com/rahulrajdixit/github-readme-stats)
