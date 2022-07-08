@@ -8,7 +8,7 @@
 <p>
   ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrajdixit&show_icons=true&theme=chartreuse-dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahulrajdixit&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahulrajdixit&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </p>
 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=rahulrajdixit&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false"/>
