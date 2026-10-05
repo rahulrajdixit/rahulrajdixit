@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulrajdixit.
 - 👀 I’m interested in Cyber Security, AI and Software Development
 - 🌱 I’m currently learning about Cloud Security, and secure coding.
-- 💞️ I’m looking to collaborate on projects in the domain of Cyber Security, Web Development, Python based tools or softwares.
+- 💞️ I’m looking forward to collaborating on projects in the domain of Cyber Security, Web Development, Python based tools or softwares.
 - 📫 How to reach me? email: rahulrd2000@gmail.com
 - 🔗 Wanna connect with me? <a href="https://www.linkedin.com/in/rahul-raj-dixit/">Linkedin</a>
 
