@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Cloud Security, and secure coding.
 - 💞️ I’m looking forward to collaborating on projects in the domain of Cyber Security, Web Development, Python based tools or softwares.
 - 📫 How to reach me? email: rahulrd2000@gmail.com
-- 🔗 Wanna connect with me? <a href="https://www.linkedin.com/in/rahul-raj-dixit/">Linkedin</a>
+- 🔗 Wanna connect with me? <a href="https://www.linkedin.com/in/rahul-raj-dixit/">Linkedin</a>.
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrajdixit&show_icons=true&theme=chartreuse-dark)
 
