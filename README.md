@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulrajdixit.
+- 👋 Hi, I’m @rahulrajdixit
 - 👀 I’m interested in Cyber Security, AI and Software Development.
 - 🌱 I’m currently learning about Cloud Security, and secure coding.
 - 💞️ I’m looking forward to collaborating on projects in the domain of Cyber Security, Web Development, Python based tools or softwares.
